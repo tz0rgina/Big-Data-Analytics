@@ -6,7 +6,7 @@ conversion, application of data mining techniques and evaluation. Implementation
 done in the Python programming language using the SciKit Learn and Keras tool. The thesis
 consists of two (2) tasks related to categorization, duplication detection. 
 
-Assignment directions are available in BigData-2020-2021-english.pdf
+Assignment directions are available in** BigData-2020-2021-english.pdf**
 
 Two (2) separate
 competitions have been created for the requirements of the job on the Kaggle platform.
